@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+suroor-portfolio/
+.env
+.env.*
+!.env.example
